@@ -3,7 +3,12 @@
   "symbol": "MMON",
   "decimals": 18,
   "total_supply": 10000000000,
+  "burned": 7000000000,
+  "locked": 1000000000,
+  "liquidity_pool": 500000000,
+  "marketing": 400000000,
+  "team_operations": 100000000,
   "circulating_supply": 1000000000,
   "updated_at": "2025-11-11T00:00:00Z",
-  "note": "Reflects 10B total supply, 7B burned, 1B locked, 1B circulating. Verified on-chain."
+  "note": "10B total supply: 7B burned, 1B locked (Team Finance), 0.5B liquidity, 0.4B marketing, 0.1B team. Verified on-chain."
 }
